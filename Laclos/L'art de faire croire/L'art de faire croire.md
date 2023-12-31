@@ -1,0 +1,4 @@
+Le roman vit de l’opposition entre les personnages roués et les personnages naïfs. **Si les premiers**
+**réussissent à mentir, c’est parce que les seconds sont (trop) facilement dupes de leurs manigances.**
+Les libertins multiplient les façons de tromper leur entourage. Ils n’hésitent pas à fabriquer des faux
+documents, mais ce sont surtout des faux monnayeurs de gestes et de discours. Ils parviennent en effet à **faire croire à leur vertu ou aux sentiments d’amour et d’amitié** qu’ils disent éprouver, alors même qu’ils ne font que les feindre et qu’ils sont en vérité tout sauf vertueux, amoureux ou amicaux. Dans **une société où prévalent les apparences, ils conçoivent la séduction comme un véritable spectacle dont ils sont à la fois les auteurs, les metteurs en scène et les comédiens.**
