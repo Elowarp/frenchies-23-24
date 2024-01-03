@@ -1,0 +1,37 @@
+{
+	"nodes":[
+		{"id":"d035a7bbd4c66237","x":-2180,"y":-1308,"width":2260,"height":1828,"color":"2","type":"group","label":"Lorenzo l'acteur"},
+		{"id":"d42ee74e05a279e5","x":-4960,"y":-1080,"width":1800,"height":1160,"color":"2","type":"group","label":"Quand les masque tombent"},
+		{"id":"543919108748235d","x":-4920,"y":-920,"width":1155,"height":940,"color":"5","type":"group","label":"Le meurtre"},
+		{"id":"e00de7b644f67f0d","x":-1120,"y":-1200,"width":1037,"height":741,"color":"5","type":"group","label":"De multiples personnalités"},
+		{"id":"e40303dbd2127716","x":-1220,"y":-280,"width":980,"height":700,"color":"5","type":"group","label":"Pourquoi jouer la comédie ?"},
+		{"id":"92dcf1420aee187d","x":-2040,"y":-1130,"width":440,"height":540,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/Comment Lorenzo est vu par les autres.md"},
+		{"id":"06afd3b266bd2c3e","x":-2000,"y":-280,"width":556,"height":661,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/Un grand numéro d'acteur.md"},
+		{"id":"ced155dbafc2f2f1","x":-1150,"y":-215,"width":340,"height":60,"type":"text","text":"#### Pourquoi jouer la comédie ?"},
+		{"id":"6f930e4226694ec9","x":-660,"y":-155,"width":400,"height":535,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/Pourquoi jouer la comédie/Un destin tyrannicide.md"},
+		{"id":"0311ca06a5b1fc19","x":-1180,"y":-60,"width":400,"height":440,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/Pourquoi jouer la comédie/Une jeunesse pleine de vertu et de poésie.md"},
+		{"id":"1e72292b784963f3","x":-600,"y":-1100,"width":480,"height":605,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/De multiples personnalités/La thématique du spectre.md"},
+		{"id":"476744e8de0ee6fa","x":-1080,"y":-980,"width":360,"height":495,"type":"file","file":"Musset/Le double jeu de Lorenzo/Lorenzo l'acteur, dont le personnage est Lorenzaccio/De multiples personnalités/Les suffixes de Lorenzo.md"},
+		{"id":"562a6830753ea24c","x":-1080,"y":-1160,"width":320,"height":60,"type":"text","text":"#### De multiples personnalités"},
+		{"id":"0bce8b62e694d8cc","x":-1520,"y":-571,"width":300,"height":86,"type":"text","text":"# Lorenzo l'acteur"},
+		{"id":"10f1cb5f59f7d5f1","x":-4885,"y":-680,"width":560,"height":680,"type":"file","file":"Musset/Le double jeu de Lorenzo/Quand les masque tombe, quand Lorenzaccio redevient Lorenzo/Le dévoilement par l'action, le meurtre/La préparation du meurtre.md"},
+		{"id":"caf676f6ae468dc0","x":-4725,"y":-860,"width":200,"height":70,"type":"text","text":"## Le meurtre"},
+		{"id":"095d173097b49f6a","x":-3640,"y":-860,"width":400,"height":822,"type":"file","file":"Musset/Le double jeu de Lorenzo/Quand les masque tombe, quand Lorenzaccio redevient Lorenzo/Le dévoilement par les mots.md"},
+		{"id":"2b0e2183e512b1e3","x":-4200,"y":-740,"width":400,"height":740,"type":"file","file":"Musset/Le double jeu de Lorenzo/Quand les masque tombe, quand Lorenzaccio redevient Lorenzo/Le dévoilement par l'action, le meurtre/Le passage à l'acte IV 10 et 11.md"},
+		{"id":"8fc5d6b2728282f6","x":-2920,"y":-568,"width":411,"height":83,"type":"text","text":"# Le double jeu de Lorenzo"}
+	],
+	"edges":[
+		{"id":"1704de6d2f009495","fromNode":"ced155dbafc2f2f1","fromSide":"bottom","toNode":"0311ca06a5b1fc19","toSide":"top"},
+		{"id":"3312366b434c1828","fromNode":"ced155dbafc2f2f1","fromSide":"right","toNode":"6f930e4226694ec9","toSide":"top"},
+		{"id":"69c50dc089eb24e4","fromNode":"562a6830753ea24c","fromSide":"bottom","toNode":"476744e8de0ee6fa","toSide":"top"},
+		{"id":"c5175e257a8bb54f","fromNode":"562a6830753ea24c","fromSide":"right","toNode":"1e72292b784963f3","toSide":"left"},
+		{"id":"265a634f85137475","fromNode":"0bce8b62e694d8cc","fromSide":"top","toNode":"92dcf1420aee187d","toSide":"right"},
+		{"id":"85f0f259a1be7f25","fromNode":"0bce8b62e694d8cc","fromSide":"top","toNode":"e00de7b644f67f0d","toSide":"left"},
+		{"id":"c3b7490c42b33d95","fromNode":"0bce8b62e694d8cc","fromSide":"bottom","toNode":"06afd3b266bd2c3e","toSide":"top"},
+		{"id":"02cbcdbefd0189f7","fromNode":"0bce8b62e694d8cc","fromSide":"bottom","toNode":"e40303dbd2127716","toSide":"top"},
+		{"id":"a5445f081531147c","fromNode":"caf676f6ae468dc0","fromSide":"bottom","toNode":"10f1cb5f59f7d5f1","toSide":"top"},
+		{"id":"d993ad0c1e9c1b97","fromNode":"caf676f6ae468dc0","fromSide":"right","toNode":"2b0e2183e512b1e3","toSide":"top"},
+		{"id":"09048d2d521cf182","fromNode":"8fc5d6b2728282f6","fromSide":"left","toNode":"d42ee74e05a279e5","toSide":"right"},
+		{"id":"6e4baf774e00280f","fromNode":"8fc5d6b2728282f6","fromSide":"right","toNode":"d035a7bbd4c66237","toSide":"left"}
+	]
+}
