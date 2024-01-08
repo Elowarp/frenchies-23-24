@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "c66bce7dc295443e",
+    "type": "split",
+    "children": [
+      {
+        "id": "86f76f00a09c7872",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "18d7827e4e5ebc2b",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Laclos/Carte Laclos.canvas",
+                "viewState": {
+                  "x": -2680,
+                  "y": -2480,
+                  "zoom": -3.316827223194497
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d02c45df2e06b604",
+    "type": "split",
+    "children": [
+      {
+        "id": "687b4a0d6c470e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8e147b98deb10409",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b934ffb97207c913",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1e3311df13e8e226",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "763a1bd53638cdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "a64f06ccbebba4e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01c516f22cf69cc3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Laclos/Carte Laclos.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "54b0f20bcbac87d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Laclos/Carte Laclos.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0aa10cd17b5c6584",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c239aafd5d9beb65",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Laclos/Carte Laclos.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Ouvrir le sélecteur rapide": false,
+      "graph:Ouvrir la vue graphique": false,
+      "canvas:Créer une nouvelle toile": false,
+      "daily-notes:Ouvrir la note quotidienne": false,
+      "templates:Insérer le modèle": false,
+      "command-palette:Ouvrir la palette de commandes": false
+    }
+  },
+  "active": "18d7827e4e5ebc2b",
+  "lastOpenFiles": [
+    "Carte Musset.png",
+    "Musset/Carte Musset.canvas",
+    "Résumé de l'année.canvas",
+    "Fascination pour Brutus.md",
+    "Carte Laclos.png",
+    "Laclos/Carte Laclos.canvas",
+    "Laclos/Carte.png"
+  ]
+}

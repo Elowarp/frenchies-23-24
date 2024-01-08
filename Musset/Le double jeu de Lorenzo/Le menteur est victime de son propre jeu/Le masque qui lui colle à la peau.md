@@ -1,4 +1,4 @@
-Le personnage de Lorenzaccio tend à prendre le dessus sur Lorenzo comme le remarque Scoronconcolo, il fait de "l'ombre".?
+Le personnage de Lorenzaccio tend à prendre le dessus sur Lorenzo comme le remarque Scoronconcolo, il fait de "l'ombre" ?
 >[!quote] Je suis devenu vicieux, lâche, un objet ==de honte== et d'opprobre (III, 3)
 
 >[!quote] le vice à été pour moi un vêtement, maintenant il est collé à ma peau. (III, 3)
